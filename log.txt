@@ -1,0 +1,1659 @@
+2019-03-29 15:51:18,295 - pf.infra.images.utils - WARNING - Failed to load krita
+2019-03-29 15:51:18,468 - asyncio - DEBUG - Using selector: SelectSelector
+2019-03-29 15:51:18,470 - root - DEBUG - Starting server...
+2019-03-29 22:36:22,970 - sync.images.utils - WARNING - Failed to load krita
+2019-03-29 22:44:09,333 - sync.images.utils - WARNING - Failed to load krita
+2019-03-29 22:44:46,225 - sync.images.utils - WARNING - Failed to load krita
+2019-03-29 22:44:48,854 - sync.images.utils - WARNING - Failed to load krita
+2019-03-29 22:44:55,503 - sync.images.utils - WARNING - Failed to load krita
+2019-03-29 22:44:55,572 - asyncio - DEBUG - Using selector: SelectSelector
+2019-03-29 22:44:55,574 - root - DEBUG - Starting server...
+2019-03-29 22:46:54,555 - sync.images.utils - WARNING - Failed to load krita
+2019-03-29 22:46:54,615 - asyncio - DEBUG - Using selector: SelectSelector
+2019-03-29 22:46:54,617 - root - DEBUG - Starting server...
+2019-03-29 22:48:59,980 - asyncio - DEBUG - Using selector: SelectSelector
+2019-03-29 22:48:59,983 - root - DEBUG - Starting server...
+2019-03-29 22:50:43,287 - asyncio - DEBUG - Using selector: SelectSelector
+2019-03-29 22:50:43,289 - root - DEBUG - Starting server...
+2019-03-29 22:50:46,561 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 22:50:46,562 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=712 read=idle write=<idle, bufsize=0>>)
+2019-03-29 22:50:46,564 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 22:50:46,564 - root - DEBUG - Running handler...
+2019-03-29 22:50:46,565 - root - DEBUG - Server init complete
+2019-03-29 22:50:46,565 - root - DEBUG - Waiting for message...
+2019-03-29 22:51:06,567 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x945\x91H', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:06,582 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xfb\xa2(j', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:06,585 - websockets.protocol - DEBUG - server - received ping, sending pong: fba2286a
+2019-03-29 22:51:06,586 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xfb\xa2(j', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:06,588 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x945\x91H', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:06,595 - websockets.protocol - DEBUG - server - received solicited pong: 94359148
+2019-03-29 22:51:26,598 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\n\xef6|', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:26,599 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xf2\x1e\xd6\xad', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:26,600 - websockets.protocol - DEBUG - server - received ping, sending pong: f21ed6ad
+2019-03-29 22:51:26,601 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xf2\x1e\xd6\xad', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:26,603 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\n\xef6|', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:26,604 - websockets.protocol - DEBUG - server - received solicited pong: 0aef367c
+2019-03-29 22:51:46,601 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xf9X\x9ad', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:46,604 - websockets.protocol - DEBUG - server - received ping, sending pong: f9589a64
+2019-03-29 22:51:46,605 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xf9X\x9ad', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:46,608 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x80\x84Ji', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:46,623 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x80\x84Ji', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:51:46,624 - websockets.protocol - DEBUG - server - received solicited pong: 80844a69
+2019-03-29 22:52:06,623 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x8c\xccQ\xe3', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:06,625 - websockets.protocol - DEBUG - server - received ping, sending pong: 8ccc51e3
+2019-03-29 22:52:06,626 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x8c\xccQ\xe3', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:06,629 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'u\xba\xa5=', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:06,644 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'u\xba\xa5=', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:06,646 - websockets.protocol - DEBUG - server - received solicited pong: 75baa53d
+2019-03-29 22:52:26,645 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'2\x92\xf7\x15', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:26,648 - websockets.protocol - DEBUG - server - received ping, sending pong: 3292f715
+2019-03-29 22:52:26,649 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'2\x92\xf7\x15', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:26,651 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x9e\x9c;\x9c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:26,666 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x9e\x9c;\x9c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:26,668 - websockets.protocol - DEBUG - server - received solicited pong: 9e9c3b9c
+2019-03-29 22:52:46,661 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'd\x9b\xa7\xf8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:46,662 - websockets.protocol - DEBUG - server - received ping, sending pong: 649ba7f8
+2019-03-29 22:52:46,662 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'd\x9b\xa7\xf8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:46,664 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'V`0\xa1', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:46,677 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'V`0\xa1', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:52:46,678 - websockets.protocol - DEBUG - server - received solicited pong: 566030a1
+2019-03-29 22:53:06,679 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xd76\xea\xcc', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:06,683 - websockets.protocol - DEBUG - server - received ping, sending pong: d736eacc
+2019-03-29 22:53:06,687 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xd76\xea\xcc', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:06,691 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x97\x01K*', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:06,725 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x97\x01K*', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:06,728 - websockets.protocol - DEBUG - server - received solicited pong: 97014b2a
+2019-03-29 22:53:26,726 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'g\x08\xf5u', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:26,730 - websockets.protocol - DEBUG - server - received ping, sending pong: 6708f575
+2019-03-29 22:53:26,732 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'g\x08\xf5u', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:26,741 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x11\xf3\x8d\x0f', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:26,774 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x11\xf3\x8d\x0f', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:26,777 - websockets.protocol - DEBUG - server - received solicited pong: 11f38d0f
+2019-03-29 22:53:46,773 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'a\x8dj\xa3', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:46,777 - websockets.protocol - DEBUG - server - received ping, sending pong: 618d6aa3
+2019-03-29 22:53:46,779 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'a\x8dj\xa3', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:46,783 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x06\xde[x', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:46,815 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x06\xde[x', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:53:46,818 - websockets.protocol - DEBUG - server - received solicited pong: 06de5b78
+2019-03-29 22:54:06,817 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'D\x1c\x15\x9c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:06,823 - websockets.protocol - DEBUG - server - received ping, sending pong: 441c159c
+2019-03-29 22:54:06,824 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'D\x1c\x15\x9c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:06,828 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x96\xc9\x10b', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:06,853 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x96\xc9\x10b', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:06,856 - websockets.protocol - DEBUG - server - received solicited pong: 96c91062
+2019-03-29 22:54:26,852 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xc3?\xc4\xac', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:26,856 - websockets.protocol - DEBUG - server - received ping, sending pong: c33fc4ac
+2019-03-29 22:54:26,858 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xc3?\xc4\xac', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:26,862 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x12\x8f\xa6C', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:26,884 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x12\x8f\xa6C', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:26,887 - websockets.protocol - DEBUG - server - received solicited pong: 128fa643
+2019-03-29 22:54:46,887 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\n\x1b+\x9a', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:46,890 - websockets.protocol - DEBUG - server - received ping, sending pong: 0a1b2b9a
+2019-03-29 22:54:46,893 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\n\x1b+\x9a', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:46,898 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xb8\x9e{%', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:46,916 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xb8\x9e{%', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:54:46,920 - websockets.protocol - DEBUG - server - received solicited pong: b89e7b25
+2019-03-29 22:55:06,917 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xb1\x90\xfbF', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:06,921 - websockets.protocol - DEBUG - server - received ping, sending pong: b190fb46
+2019-03-29 22:55:06,923 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xb1\x90\xfbF', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:06,927 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x9d\xe8M&', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:06,949 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x9d\xe8M&', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:06,952 - websockets.protocol - DEBUG - server - received solicited pong: 9de84d26
+2019-03-29 22:55:26,951 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'`nNF', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:26,956 - websockets.protocol - DEBUG - server - received ping, sending pong: 606e4e46
+2019-03-29 22:55:26,957 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'`nNF', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:26,961 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x99\xde\xda9', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:26,979 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x99\xde\xda9', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:26,982 - websockets.protocol - DEBUG - server - received solicited pong: 99deda39
+2019-03-29 22:55:46,980 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xdc\xd1\xc2\xc3', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:46,984 - websockets.protocol - DEBUG - server - received ping, sending pong: dcd1c2c3
+2019-03-29 22:55:46,986 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xdc\xd1\xc2\xc3', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:46,991 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'a\xb4p\xbf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:47,013 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'a\xb4p\xbf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:55:47,017 - websockets.protocol - DEBUG - server - received solicited pong: 61b470bf
+2019-03-29 22:56:07,011 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xcd\x0fq2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:07,014 - websockets.protocol - DEBUG - server - received ping, sending pong: cd0f7132
+2019-03-29 22:56:07,016 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xcd\x0fq2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:07,019 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'w\xe0\xf8\xdf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:07,037 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'w\xe0\xf8\xdf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:07,044 - websockets.protocol - DEBUG - server - received solicited pong: 77e0f8df
+2019-03-29 22:56:27,036 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'1\xb0)\xfd', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:27,041 - websockets.protocol - DEBUG - server - received ping, sending pong: 31b029fd
+2019-03-29 22:56:27,042 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'1\xb0)\xfd', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:27,047 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x9b\xce\xfe\r', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:27,076 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x9b\xce\xfe\r', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:27,082 - websockets.protocol - DEBUG - server - received solicited pong: 9bcefe0d
+2019-03-29 22:56:47,085 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x18\x83\xca{', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:47,097 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x18\x83\xca{', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:47,108 - websockets.protocol - DEBUG - server - received solicited pong: 1883ca7b
+2019-03-29 22:56:47,110 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xe4\xbd\xc9\x0c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:56:47,115 - websockets.protocol - DEBUG - server - received ping, sending pong: e4bdc90c
+2019-03-29 22:56:47,117 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xe4\xbd\xc9\x0c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:07,121 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xddB\x1c\x8b', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:07,136 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xddB\x1c\x8b', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:07,146 - websockets.protocol - DEBUG - server - received solicited pong: dd421c8b
+2019-03-29 22:57:07,153 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x07\xb2\xd0\x89', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:07,156 - websockets.protocol - DEBUG - server - received ping, sending pong: 07b2d089
+2019-03-29 22:57:07,158 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x07\xb2\xd0\x89', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:27,162 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x97m\xdc\xe6', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:27,176 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'=\xbe\xa24', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:27,198 - websockets.protocol - DEBUG - server - received ping, sending pong: 3dbea234
+2019-03-29 22:57:27,208 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'=\xbe\xa24', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:27,226 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x97m\xdc\xe6', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:27,235 - websockets.protocol - DEBUG - server - received solicited pong: 976ddce6
+2019-03-29 22:57:47,242 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x9c\x951\xdd', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:47,245 - websockets.protocol - DEBUG - server - received ping, sending pong: 9c9531dd
+2019-03-29 22:57:47,247 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x9c\x951\xdd', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:47,255 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xb18\xcee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:47,272 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xb18\xcee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:57:47,274 - websockets.protocol - DEBUG - server - received solicited pong: b138ce65
+2019-03-29 22:58:07,276 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x1a\x111\x13', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:07,278 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xb8\xe7\xc9\x85', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:07,280 - websockets.protocol - DEBUG - server - received ping, sending pong: b8e7c985
+2019-03-29 22:58:07,283 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xb8\xe7\xc9\x85', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:07,286 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x1a\x111\x13', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:07,292 - websockets.protocol - DEBUG - server - received solicited pong: 1a113113
+2019-03-29 22:58:27,295 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xe84\x90\xee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:27,307 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xe84\x90\xee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:27,309 - websockets.protocol - DEBUG - server - received solicited pong: e83490ee
+2019-03-29 22:58:27,311 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x0e{\xf1\x11', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:27,314 - websockets.protocol - DEBUG - server - received ping, sending pong: 0e7bf111
+2019-03-29 22:58:27,316 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x0e{\xf1\x11', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:47,319 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xa2|F ', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:47,333 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xa2|F ', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:47,350 - websockets.protocol - DEBUG - server - received solicited pong: a27c4620
+2019-03-29 22:58:47,361 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x16=\x8a ', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:58:47,366 - websockets.protocol - DEBUG - server - received ping, sending pong: 163d8a20
+2019-03-29 22:58:47,368 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x16=\x8a ', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:07,372 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x80\xbd\xa0\xf8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:07,385 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x80\xbd\xa0\xf8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:07,395 - websockets.protocol - DEBUG - server - received solicited pong: 80bda0f8
+2019-03-29 22:59:07,397 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'>\xac^\xd2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:07,398 - websockets.protocol - DEBUG - server - received ping, sending pong: 3eac5ed2
+2019-03-29 22:59:07,399 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'>\xac^\xd2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:27,402 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x854\xecs', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:27,415 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x854\xecs', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:27,426 - websockets.protocol - DEBUG - server - received solicited pong: 8534ec73
+2019-03-29 22:59:27,434 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x16J\xf6I', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:27,436 - websockets.protocol - DEBUG - server - received ping, sending pong: 164af649
+2019-03-29 22:59:27,438 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x16J\xf6I', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:47,441 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xff=S\x88', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:47,448 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xff=S\x88', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:47,449 - websockets.protocol - DEBUG - server - received solicited pong: ff3d5388
+2019-03-29 22:59:47,452 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xc0T,\xee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 22:59:47,453 - websockets.protocol - DEBUG - server - received ping, sending pong: c0542cee
+2019-03-29 22:59:47,454 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xc0T,\xee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:07,456 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x96\x95\xb1n', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:07,474 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x96\x95\xb1n', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:07,477 - websockets.protocol - DEBUG - server - received solicited pong: 9695b16e
+2019-03-29 23:00:07,484 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xa7\xcc\x9e\x95', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:07,487 - websockets.protocol - DEBUG - server - received ping, sending pong: a7cc9e95
+2019-03-29 23:00:07,490 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xa7\xcc\x9e\x95', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:27,495 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'nJ\xe7\x01', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:27,503 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'nJ\xe7\x01', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:27,504 - websockets.protocol - DEBUG - server - received solicited pong: 6e4ae701
+2019-03-29 23:00:27,510 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x99\xf5`w', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:27,516 - websockets.protocol - DEBUG - server - received ping, sending pong: 99f56077
+2019-03-29 23:00:27,518 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x99\xf5`w', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:47,520 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xe5\x98\xc4\xad', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:47,523 - websockets.protocol - DEBUG - server - received ping, sending pong: e598c4ad
+2019-03-29 23:00:47,525 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xe5\x98\xc4\xad', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:47,529 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xf4}\xb3\x98', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:47,566 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xf4}\xb3\x98', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:00:47,569 - websockets.protocol - DEBUG - server - received solicited pong: f47db398
+2019-03-29 23:01:07,571 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'E\xde{\x97', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:07,585 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xef\xc9\xd1\xeb', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:07,598 - websockets.protocol - DEBUG - server - received ping, sending pong: efc9d1eb
+2019-03-29 23:01:07,609 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xef\xc9\xd1\xeb', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:07,630 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'E\xde{\x97', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:07,632 - websockets.protocol - DEBUG - server - received solicited pong: 45de7b97
+2019-03-29 23:01:27,639 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x14\x0e\x0c-', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:27,653 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x14\x0e\x0c-', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:27,671 - websockets.protocol - DEBUG - server - received solicited pong: 140e0c2d
+2019-03-29 23:01:27,675 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x83\xbb:4', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:27,677 - websockets.protocol - DEBUG - server - received ping, sending pong: 83bb3a34
+2019-03-29 23:01:27,678 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x83\xbb:4', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:47,674 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x1e\xf3\xfe\x92', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:47,677 - websockets.protocol - DEBUG - server - received ping, sending pong: 1ef3fe92
+2019-03-29 23:01:47,679 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x1e\xf3\xfe\x92', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:47,683 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'F\x7f\x03\x93', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:47,703 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'F\x7f\x03\x93', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:01:47,706 - websockets.protocol - DEBUG - server - received solicited pong: 467f0393
+2019-03-29 23:02:07,710 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xef\xd3D\xf0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:07,727 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xef\xd3D\xf0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:07,743 - websockets.protocol - DEBUG - server - received solicited pong: efd344f0
+2019-03-29 23:02:07,750 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x1a\x15 \x93', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:07,753 - websockets.protocol - DEBUG - server - received ping, sending pong: 1a152093
+2019-03-29 23:02:07,754 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x1a\x15 \x93', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:27,759 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'#4\xa9\x88', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:27,777 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'#4\xa9\x88', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:27,781 - websockets.protocol - DEBUG - server - received solicited pong: 2334a988
+2019-03-29 23:02:27,793 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xcaQ\xc3[', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:27,795 - websockets.protocol - DEBUG - server - received ping, sending pong: ca51c35b
+2019-03-29 23:02:27,798 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xcaQ\xc3[', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:47,811 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xe9=\x04=', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:47,818 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'0\x14\xca\xc1', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:47,827 - websockets.protocol - DEBUG - server - received ping, sending pong: 3014cac1
+2019-03-29 23:02:47,832 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'0\x14\xca\xc1', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:47,849 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xe9=\x04=', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:02:47,857 - websockets.protocol - DEBUG - server - received solicited pong: e93d043d
+2019-03-29 23:03:07,865 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xd1\xd5~e', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:07,871 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xd1\xd5~e', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:07,871 - websockets.protocol - DEBUG - server - received solicited pong: d1d57e65
+2019-03-29 23:03:07,874 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'=U@\xb0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:07,875 - websockets.protocol - DEBUG - server - received ping, sending pong: 3d5540b0
+2019-03-29 23:03:07,875 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'=U@\xb0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:27,878 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'f\xba\xbf\x18', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:27,893 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xa4p\x9b\x98', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:27,896 - websockets.protocol - DEBUG - server - received ping, sending pong: a4709b98
+2019-03-29 23:03:27,897 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xa4p\x9b\x98', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:27,902 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'f\xba\xbf\x18', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:27,904 - websockets.protocol - DEBUG - server - received solicited pong: 66babf18
+2019-03-29 23:03:47,909 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xd2x\xef%', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:47,922 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x14E\xa7\xf8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:47,938 - websockets.protocol - DEBUG - server - received ping, sending pong: 1445a7f8
+2019-03-29 23:03:47,952 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x14E\xa7\xf8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:47,969 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xd2x\xef%', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:03:47,971 - websockets.protocol - DEBUG - server - received solicited pong: d278ef25
+2019-03-29 23:04:07,976 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'/\xd1\xb6t', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:07,992 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'/\xd1\xb6t', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:08,003 - websockets.protocol - DEBUG - server - received solicited pong: 2fd1b674
+2019-03-29 23:04:08,007 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xec\x7f/\x8c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:08,010 - websockets.protocol - DEBUG - server - received ping, sending pong: ec7f2f8c
+2019-03-29 23:04:08,012 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xec\x7f/\x8c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:28,018 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x94\xa5\xdb\xa4', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:28,029 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x14\xb0\xc4\x8f', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:28,030 - websockets.protocol - DEBUG - server - received ping, sending pong: 14b0c48f
+2019-03-29 23:04:28,037 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x14\xb0\xc4\x8f', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:28,038 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x94\xa5\xdb\xa4', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:28,044 - websockets.protocol - DEBUG - server - received solicited pong: 94a5dba4
+2019-03-29 23:04:48,046 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x8c\xe3\xa7\x8f', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:48,049 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xb9\xe8wn', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:48,059 - websockets.protocol - DEBUG - server - received ping, sending pong: b9e8776e
+2019-03-29 23:04:48,060 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xb9\xe8wn', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:48,063 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x8c\xe3\xa7\x8f', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:04:48,065 - websockets.protocol - DEBUG - server - received solicited pong: 8ce3a78f
+2019-03-29 23:05:08,067 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xd1H\xa6J', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:08,070 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xd1H\xa6J', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:08,072 - websockets.protocol - DEBUG - server - received solicited pong: d148a64a
+2019-03-29 23:05:08,072 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x00\xb8\xb4\xa2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:08,073 - websockets.protocol - DEBUG - server - received ping, sending pong: 00b8b4a2
+2019-03-29 23:05:08,073 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x00\xb8\xb4\xa2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:28,075 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'}\xa2l\xff', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:28,082 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'}\xa2l\xff', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:28,086 - websockets.protocol - DEBUG - server - received solicited pong: 7da26cff
+2019-03-29 23:05:28,088 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xda\x12Y\x90', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:28,089 - websockets.protocol - DEBUG - server - received ping, sending pong: da125990
+2019-03-29 23:05:28,090 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xda\x12Y\x90', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:48,094 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'J\xd4\xba\xdb', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:48,118 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xcc\x18>}', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:48,135 - websockets.protocol - DEBUG - server - received ping, sending pong: cc183e7d
+2019-03-29 23:05:48,138 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xcc\x18>}', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:48,158 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'J\xd4\xba\xdb', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:05:48,167 - websockets.protocol - DEBUG - server - received solicited pong: 4ad4badb
+2019-03-29 23:06:08,171 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x05im\xcf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:08,179 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'K?\x05K', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:08,189 - websockets.protocol - DEBUG - server - received ping, sending pong: 4b3f054b
+2019-03-29 23:06:08,190 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'K?\x05K', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:08,192 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x05im\xcf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:08,193 - websockets.protocol - DEBUG - server - received solicited pong: 05696dcf
+2019-03-29 23:06:28,197 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x14\x8e\x97\xc9', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:28,214 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xc1\xd3\xf6\xd6', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:28,224 - websockets.protocol - DEBUG - server - received ping, sending pong: c1d3f6d6
+2019-03-29 23:06:28,234 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xc1\xd3\xf6\xd6', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:28,244 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x14\x8e\x97\xc9', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:28,248 - websockets.protocol - DEBUG - server - received solicited pong: 148e97c9
+2019-03-29 23:06:48,256 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b's\x8eNZ', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:48,264 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b's\x8eNZ', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:48,265 - websockets.protocol - DEBUG - server - received solicited pong: 738e4e5a
+2019-03-29 23:06:48,267 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xc3\xc4~S', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:06:48,269 - websockets.protocol - DEBUG - server - received ping, sending pong: c3c47e53
+2019-03-29 23:06:48,270 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xc3\xc4~S', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:07:08,271 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x06\xa3\xc9\xde', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:07:08,277 - websockets.protocol - DEBUG - server - received ping, sending pong: 06a3c9de
+2019-03-29 23:07:08,283 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x06\xa3\xc9\xde', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:07:08,292 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b':\xa5\xe7*', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:07:08,305 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b':\xa5\xe7*', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:07:08,307 - websockets.protocol - DEBUG - server - received solicited pong: 3aa5e72a
+2019-03-29 23:07:28,310 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xfa\xff$\xf2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:07:28,313 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'nS\xe7S', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:07:28,316 - websockets.protocol - DEBUG - server - received ping, sending pong: 6e53e753
+2019-03-29 23:07:28,317 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'nS\xe7S', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:07:28,319 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xfa\xff$\xf2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:07:28,322 - websockets.protocol - DEBUG - server - received solicited pong: faff24f2
+2019-03-29 23:07:41,269 - websockets.protocol - DEBUG - server - event = connection_lost([WinError 10054] An existing connection was forcibly closed by the remote host)
+2019-03-29 23:07:41,272 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:07:41,273 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:07:41,276 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the CLOSED state: 1006 [no reason]
+2019-03-29 23:07:41,279 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:07:41,281 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 679, in readexactly
+    await self._wait_for_data('readexactly')
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 473, in _wait_for_data
+    await self._waiter
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\selector_events.py", line 801, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:07:44,145 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:07:44,147 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=680 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:07:44,149 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:07:44,150 - root - DEBUG - Running handler...
+2019-03-29 23:07:44,150 - root - DEBUG - Waiting for message...
+2019-03-29 23:07:56,623 - websockets.protocol - DEBUG - server - event = connection_lost([WinError 10054] An existing connection was forcibly closed by the remote host)
+2019-03-29 23:07:56,624 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:07:56,625 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:07:56,626 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the CLOSED state: 1006 [no reason]
+2019-03-29 23:07:56,627 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:07:56,628 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 679, in readexactly
+    await self._wait_for_data('readexactly')
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 473, in _wait_for_data
+    await self._waiter
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\selector_events.py", line 801, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:07:58,689 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:07:58,690 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=680 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:07:58,691 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:07:58,694 - root - DEBUG - Running handler...
+2019-03-29 23:07:58,696 - root - DEBUG - Waiting for message...
+2019-03-29 23:07:58,735 - websockets.protocol - DEBUG - server - event = eof_received()
+2019-03-29 23:07:58,736 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the OPEN state: 1006 [no reason]
+2019-03-29 23:07:58,738 - websockets.protocol - DEBUG - server - event = connection_lost(None)
+2019-03-29 23:07:58,739 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:07:58,739 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:07:58,740 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:07:58,740 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 677, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:17:10,412 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:17:10,413 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=684 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:17:10,414 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:17:10,415 - root - DEBUG - Running handler...
+2019-03-29 23:17:10,415 - root - DEBUG - Waiting for message...
+2019-03-29 23:17:10,455 - websockets.protocol - DEBUG - server - event = eof_received()
+2019-03-29 23:17:10,455 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the OPEN state: 1006 [no reason]
+2019-03-29 23:17:10,456 - websockets.protocol - DEBUG - server - event = connection_lost(None)
+2019-03-29 23:17:10,456 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:17:10,457 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:17:10,458 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:17:10,460 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 677, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:18:41,177 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:18:41,177 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=684 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:18:41,179 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:18:41,180 - root - DEBUG - Running handler...
+2019-03-29 23:18:41,180 - root - DEBUG - Waiting for message...
+2019-03-29 23:18:41,214 - websockets.protocol - DEBUG - server - event = eof_received()
+2019-03-29 23:18:41,215 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the OPEN state: 1006 [no reason]
+2019-03-29 23:18:41,216 - websockets.protocol - DEBUG - server - event = connection_lost(None)
+2019-03-29 23:18:41,218 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:18:41,220 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:18:41,223 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:18:41,225 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 677, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:22:19,712 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:22:19,713 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=696 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:22:19,716 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:22:19,718 - root - DEBUG - Running handler...
+2019-03-29 23:22:19,720 - root - DEBUG - Waiting for message...
+2019-03-29 23:22:19,779 - websockets.protocol - DEBUG - server - event = eof_received()
+2019-03-29 23:22:19,781 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the OPEN state: 1006 [no reason]
+2019-03-29 23:22:19,782 - websockets.protocol - DEBUG - server - event = connection_lost(None)
+2019-03-29 23:22:19,783 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:22:19,784 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:22:19,788 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:22:19,789 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 677, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:22:45,669 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:22:45,670 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=684 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:22:45,673 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:22:45,674 - root - DEBUG - Running handler...
+2019-03-29 23:22:45,674 - root - DEBUG - Waiting for message...
+2019-03-29 23:22:45,724 - websockets.protocol - DEBUG - server - event = eof_received()
+2019-03-29 23:22:45,725 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the OPEN state: 1006 [no reason]
+2019-03-29 23:22:45,726 - websockets.protocol - DEBUG - server - event = connection_lost(None)
+2019-03-29 23:22:45,727 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:22:45,728 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:22:45,731 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:22:45,732 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 677, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:23:10,544 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:23:10,546 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=684 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:23:10,549 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:23:10,550 - root - DEBUG - Running handler...
+2019-03-29 23:23:10,551 - root - DEBUG - Waiting for message...
+2019-03-29 23:23:10,614 - websockets.protocol - DEBUG - server - event = eof_received()
+2019-03-29 23:23:10,615 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the OPEN state: 1006 [no reason]
+2019-03-29 23:23:10,617 - websockets.protocol - DEBUG - server - event = connection_lost(None)
+2019-03-29 23:23:10,617 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:23:10,619 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:23:10,622 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:23:10,623 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 677, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:23:43,959 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:23:43,960 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=604 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:23:43,961 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:23:43,962 - root - DEBUG - Running handler...
+2019-03-29 23:23:43,963 - root - DEBUG - Waiting for message...
+2019-03-29 23:23:44,018 - websockets.protocol - DEBUG - server - event = eof_received()
+2019-03-29 23:23:44,023 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the OPEN state: 1006 [no reason]
+2019-03-29 23:23:44,026 - websockets.protocol - DEBUG - server - event = connection_lost(None)
+2019-03-29 23:23:44,028 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:23:44,029 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:23:44,030 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:23:44,032 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 677, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:24:11,585 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:24:11,586 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=680 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:24:11,588 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:24:11,589 - root - DEBUG - Running handler...
+2019-03-29 23:24:11,589 - root - DEBUG - Waiting for message...
+2019-03-29 23:24:11,643 - websockets.protocol - DEBUG - server - event = eof_received()
+2019-03-29 23:24:11,645 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the OPEN state: 1006 [no reason]
+2019-03-29 23:24:11,646 - websockets.protocol - DEBUG - server - event = connection_lost(None)
+2019-03-29 23:24:11,648 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:24:11,650 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:24:11,654 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:24:11,656 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 677, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:24:59,184 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:24:59,186 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=508 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:24:59,188 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:24:59,190 - root - DEBUG - Running handler...
+2019-03-29 23:24:59,190 - root - DEBUG - Waiting for message...
+2019-03-29 23:25:19,192 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xbf\xb3\xba\xbf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:19,197 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xfe:\xf1\xbf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:19,202 - websockets.protocol - DEBUG - server - received ping, sending pong: fe3af1bf
+2019-03-29 23:25:19,204 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xfe:\xf1\xbf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:19,209 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xbf\xb3\xba\xbf', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:19,212 - websockets.protocol - DEBUG - server - received solicited pong: bfb3babf
+2019-03-29 23:25:39,207 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xb3\x80g\xa2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:39,211 - websockets.protocol - DEBUG - server - received ping, sending pong: b38067a2
+2019-03-29 23:25:39,213 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xb3\x80g\xa2', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:39,216 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xb7<\xc0\xb0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:39,239 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xb7<\xc0\xb0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:39,242 - websockets.protocol - DEBUG - server - received solicited pong: b73cc0b0
+2019-03-29 23:25:59,232 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xf9R(\xed', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:59,241 - websockets.protocol - DEBUG - server - received ping, sending pong: f95228ed
+2019-03-29 23:25:59,243 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xf9R(\xed', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:59,247 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xb6\x96"*', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:59,265 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xb6\x96"*', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:25:59,268 - websockets.protocol - DEBUG - server - received solicited pong: b696222a
+2019-03-29 23:26:19,272 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x98*.\x11', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:19,277 - websockets.protocol - DEBUG - server - received ping, sending pong: 982a2e11
+2019-03-29 23:26:19,278 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x98*.\x11', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:19,279 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xb2(\xf6V', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:19,284 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xb2(\xf6V', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:19,285 - websockets.protocol - DEBUG - server - received solicited pong: b228f656
+2019-03-29 23:26:39,287 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'M\xfbma', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:39,293 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x86\xee\x95p', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:39,296 - websockets.protocol - DEBUG - server - received ping, sending pong: 86ee9570
+2019-03-29 23:26:39,298 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x86\xee\x95p', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:39,302 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'M\xfbma', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:39,305 - websockets.protocol - DEBUG - server - received solicited pong: 4dfb6d61
+2019-03-29 23:26:59,308 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x02\x94\xf2\xa8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:59,379 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x0e&\xe3\x95', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:59,429 - websockets.protocol - DEBUG - server - received ping, sending pong: 0e26e395
+2019-03-29 23:26:59,558 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x0e&\xe3\x95', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:59,770 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x02\x94\xf2\xa8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:26:59,911 - websockets.protocol - DEBUG - server - received solicited pong: 0294f2a8
+2019-03-29 23:27:20,104 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'c\xa62\n', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:27:20,109 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'c\xa62\n', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:27:20,109 - websockets.protocol - DEBUG - server - received solicited pong: 63a6320a
+2019-03-29 23:27:20,110 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x03\x83dO', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:27:20,111 - websockets.protocol - DEBUG - server - received ping, sending pong: 0383644f
+2019-03-29 23:27:20,112 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x03\x83dO', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:27:40,114 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xa21\xddz', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:27:40,119 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xa21\xddz', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:27:40,121 - websockets.protocol - DEBUG - server - received solicited pong: a231dd7a
+2019-03-29 23:27:40,122 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xed\xe8\xca\x13', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:27:40,124 - websockets.protocol - DEBUG - server - received ping, sending pong: ede8ca13
+2019-03-29 23:27:40,125 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xed\xe8\xca\x13', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:28:00,129 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xb8\xc9\xb0~', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:28:00,137 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'v\xec\xb2I', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:28:00,142 - websockets.protocol - DEBUG - server - received ping, sending pong: 76ecb249
+2019-03-29 23:28:00,147 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'v\xec\xb2I', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:28:00,152 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xb8\xc9\xb0~', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:28:00,156 - websockets.protocol - DEBUG - server - received solicited pong: b8c9b07e
+2019-03-29 23:28:20,162 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xc3}Q\t', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:28:20,163 - websockets.protocol - DEBUG - server - received ping, sending pong: c37d5109
+2019-03-29 23:28:20,163 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xc3}Q\t', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:28:20,165 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'pR\xb9\xe0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:28:20,168 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'pR\xb9\xe0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:28:20,170 - websockets.protocol - DEBUG - server - received solicited pong: 7052b9e0
+2019-03-29 23:28:21,069 - websockets.protocol - DEBUG - server - event = connection_lost([WinError 10054] An existing connection was forcibly closed by the remote host)
+2019-03-29 23:28:21,074 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:28:21,076 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:28:21,080 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the CLOSED state: 1006 [no reason]
+2019-03-29 23:28:21,084 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:28:21,087 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 679, in readexactly
+    await self._wait_for_data('readexactly')
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 473, in _wait_for_data
+    await self._waiter
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\selector_events.py", line 801, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:31:59,362 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:31:59,363 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=716 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:31:59,365 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:31:59,366 - root - DEBUG - Running handler...
+2019-03-29 23:31:59,366 - root - DEBUG - Waiting for message...
+2019-03-29 23:32:19,364 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'$\xdf3\xdb', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:32:19,371 - websockets.protocol - DEBUG - server - received ping, sending pong: 24df33db
+2019-03-29 23:32:19,376 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'$\xdf3\xdb', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:32:19,381 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b't\x89\xbf\xff', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:32:19,395 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b't\x89\xbf\xff', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:32:19,400 - websockets.protocol - DEBUG - server - received solicited pong: 7489bfff
+2019-03-29 23:32:39,380 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'w\x9c\xe4\x87', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:32:39,381 - websockets.protocol - DEBUG - server - received ping, sending pong: 779ce487
+2019-03-29 23:32:39,381 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'w\x9c\xe4\x87', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:32:39,414 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'1\xbd>\xc8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:32:39,417 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'1\xbd>\xc8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:32:39,417 - websockets.protocol - DEBUG - server - received solicited pong: 31bd3ec8
+2019-03-29 23:32:59,418 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'P\x81\xa2M', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:32:59,440 - websockets.protocol - DEBUG - server - event = connection_lost([WinError 10054] An existing connection was forcibly closed by the remote host)
+2019-03-29 23:32:59,444 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:32:59,445 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:32:59,446 - websockets.protocol - DEBUG - server - aborted pending ping: 5081a24d
+2019-03-29 23:32:59,447 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the CLOSED state: 1006 [no reason]
+2019-03-29 23:32:59,448 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:32:59,449 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 679, in readexactly
+    await self._wait_for_data('readexactly')
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 473, in _wait_for_data
+    await self._waiter
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\selector_events.py", line 801, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:33:03,057 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:33:03,058 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=612 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:33:03,060 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:33:03,061 - root - DEBUG - Running handler...
+2019-03-29 23:33:03,062 - root - DEBUG - Waiting for message...
+2019-03-29 23:33:23,064 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\xb1c\x97\xf9', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:33:23,073 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\xb1c\x97\xf9', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:33:23,076 - websockets.protocol - DEBUG - server - received solicited pong: b16397f9
+2019-03-29 23:33:23,080 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'hAT"', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:33:23,083 - websockets.protocol - DEBUG - server - received ping, sending pong: 68415422
+2019-03-29 23:33:23,086 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'hAT"', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:33:43,090 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'3\xc0b\xf4', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:33:43,098 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'3\xc0b\xf4', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:33:43,106 - websockets.protocol - DEBUG - server - received solicited pong: 33c062f4
+2019-03-29 23:33:43,107 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\xee\xc9\xc9\xd8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:33:43,109 - websockets.protocol - DEBUG - server - received ping, sending pong: eec9c9d8
+2019-03-29 23:33:43,110 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\xee\xc9\xc9\xd8', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:03,111 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'i\x05\xfe0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:03,112 - websockets.protocol - DEBUG - server - received ping, sending pong: 6905fe30
+2019-03-29 23:34:03,113 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'i\x05\xfe0', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:03,114 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'\x86o\xff\xee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:03,116 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'\x86o\xff\xee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:03,117 - websockets.protocol - DEBUG - server - received solicited pong: 866fffee
+2019-03-29 23:34:23,120 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'b\x10A\x92', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:23,200 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'j\x1ag-', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:23,251 - websockets.protocol - DEBUG - server - received ping, sending pong: 6a1a672d
+2019-03-29 23:34:23,253 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'j\x1ag-', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:23,257 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'b\x10A\x92', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:23,260 - websockets.protocol - DEBUG - server - received solicited pong: 62104192
+2019-03-29 23:34:43,265 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'yV\x0c\x9c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:43,269 - websockets.protocol - DEBUG - server - received ping, sending pong: 79560c9c
+2019-03-29 23:34:43,271 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'yV\x0c\x9c', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:43,280 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'!Tn^', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:43,292 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'!Tn^', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:34:43,303 - websockets.protocol - DEBUG - server - received solicited pong: 21546e5e
+2019-03-29 23:35:03,282 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x9a\x1f\x109', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:03,283 - websockets.protocol - DEBUG - server - received ping, sending pong: 9a1f1039
+2019-03-29 23:35:03,283 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x9a\x1f\x109', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:03,285 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'lk\x80\xc5', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:03,287 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'lk\x80\xc5', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:03,287 - websockets.protocol - DEBUG - server - received solicited pong: 6c6b80c5
+2019-03-29 23:35:23,287 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'n\xeb\xb1P', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:23,294 - websockets.protocol - DEBUG - server - received ping, sending pong: 6eebb150
+2019-03-29 23:35:23,297 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'n\xeb\xb1P', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:23,315 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'V\x97\xdf\xee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:23,332 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'V\x97\xdf\xee', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:23,339 - websockets.protocol - DEBUG - server - received solicited pong: 5697dfee
+2019-03-29 23:35:43,319 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=9, data=b'\x0f\xac\xc5?', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:43,326 - websockets.protocol - DEBUG - server - received ping, sending pong: 0facc53f
+2019-03-29 23:35:43,330 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=10, data=b'\x0f\xac\xc5?', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:43,352 - websockets.protocol - DEBUG - server > Frame(fin=True, opcode=9, data=b'$\x80^\x0e', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:43,368 - websockets.protocol - DEBUG - server < Frame(fin=True, opcode=10, data=b'$\x80^\x0e', rsv1=False, rsv2=False, rsv3=False)
+2019-03-29 23:35:43,376 - websockets.protocol - DEBUG - server - received solicited pong: 24805e0e
+2019-03-29 23:36:02,168 - websockets.protocol - DEBUG - server - event = connection_lost([WinError 10054] An existing connection was forcibly closed by the remote host)
+2019-03-29 23:36:02,171 - websockets.protocol - DEBUG - server - state = CLOSED
+2019-03-29 23:36:02,175 - websockets.protocol - DEBUG - server x code = 1006, reason = [no reason]
+2019-03-29 23:36:02,178 - websockets.protocol - DEBUG - server ! failing WebSocket connection in the CLOSED state: 1006 [no reason]
+2019-03-29 23:36:02,181 - websockets.protocol - DEBUG - server x half-closing TCP connection
+2019-03-29 23:36:02,184 - websockets.server - ERROR - Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 679, in readexactly
+    await self._wait_for_data('readexactly')
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 473, in _wait_for_data
+    await self._waiter
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\selector_events.py", line 801, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 20, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason
+2019-03-29 23:36:04,335 - websockets.protocol - DEBUG - server - state = CONNECTING
+2019-03-29 23:36:04,337 - websockets.protocol - DEBUG - server - event = connection_made(<_SelectorSocketTransport fd=612 read=idle write=<idle, bufsize=0>>)
+2019-03-29 23:36:04,339 - websockets.protocol - DEBUG - server - state = OPEN
+2019-03-29 23:36:04,340 - root - DEBUG - Running handler...
+2019-03-29 23:36:04,341 - root - DEBUG - Waiting for message...
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=576 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[34mDEBUG:root:Running handler...[0m
+[34mDEBUG:root:Server init complete[0m
+[34mDEBUG:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xa0\xc3\xf1\xf6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\t}\xde=', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 097dde3d[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\t}\xde=', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xa0\xc3\xf1\xf6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: a0c3f1f6[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xe6\x95m\x9a', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: e6956d9a[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xe6\x95m\x9a', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'|\x9c\x06\xd1', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'|\x9c\x06\xd1', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 7c9c06d1[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x83\x01lF', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 83016c46[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x83\x01lF', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'1\xff\xfc\x10', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'1\xff\xfc\x10', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 31fffc10[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'.i\xde\xfc', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 2e69defc[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'.i\xde\xfc', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x93\xb5\x8b\x90', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x93\xb5\x8b\x90', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 93b58b90[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\r0\xb4\x15', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 0d30b415[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\r0\xb4\x15', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x963g\x95', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x963g\x95', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 96336795[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x05\x15\xf4\xb8', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 0515f4b8[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x05\x15\xf4\xb8', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'}\x0b\xe7v', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'}\x0b\xe7v', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 7d0be776[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x0b=\xb3\xa6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 0b3db3a6[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x0b=\xb3\xa6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x8d#\x8ca', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x8d#\x8ca', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 8d238c61[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x82\xc6\xd5\x17', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 82c6d517[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x82\xc6\xd5\x17', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'.\x0e\xc7f', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'.\x0e\xc7f', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 2e0ec766[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xab\x1e\xa6\x8e', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: ab1ea68e[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xab\x1e\xa6\x8e', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x95\xa63P', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x95\xa63P', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 95a63350[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=820 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[34mDEBUG:root:Running handler...[0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 18, in handle_message
+    data_manager = DataManager(ws, mode="server")
+TypeError: __init__() got an unexpected keyword argument 'mode'[0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the OPEN state: 1011 [no reason][0m
+[34mDEBUG:websockets.protocol:server - state = CLOSING[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xf3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost(None)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=216 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[34mDEBUG:root:Running handler...[0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 18, in handle_message
+    data_manager = DataManager(ws, mode="server")
+TypeError: __init__() got an unexpected keyword argument 'mode'[0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the OPEN state: 1011 [no reason][0m
+[34mDEBUG:websockets.protocol:server - state = CLOSING[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xf3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost(None)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=844 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[34mDEBUG:root:Running handler...[0m
+[34mDEBUG:root:Server init complete[0m
+[34mDEBUG:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xe82r)', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b']\x86"k', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 5d86226b[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b']\x86"k', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xe82r)', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: e8327229[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x16\xa3\xe6\xb0', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 16a3e6b0[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x16\xa3\xe6\xb0', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xa5\xb1o\xac', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xa5\xb1o\xac', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: a5b16fac[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b' \xca\xde\xa9', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 20cadea9[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b' \xca\xde\xa9', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xe5]\x1e\xd6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xe5]\x1e\xd6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: e55d1ed6[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xba\xd1\x19\xb3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: bad119b3[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xba\xd1\x19\xb3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xe1a~a', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xe1a~a', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: e1617e61[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xaf\xba/\x84', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: afba2f84[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xaf\xba/\x84', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x90UQ+', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x90UQ+', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 9055512b[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xfbTi\x98', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: fb546998[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xfbTi\x98', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'bg\x8d\x9e', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'bg\x8d\x9e', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 62678d9e[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xe2\x993_', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: e299335f[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xe2\x993_', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xf4s0F', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xf4s0F', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: f4733046[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xc6W\x06\xe7', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: c65706e7[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xc6W\x06\xe7', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x90\x9f\x10\xab', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x90\x9f\x10\xab', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 909f10ab[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=772 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[34mDEBUG:root:Running handler...[0m
+[34mDEBUG:root:Server init complete[0m
+[34mDEBUG:root:Waiting for message...[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=744 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[34mDEBUG:root:Running handler...[0m
+[34mDEBUG:root:Server init complete[0m
+[34mDEBUG:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x8e\xcd\xa0?', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xc2\xa9 k', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: c2a9206b[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xc2\xa9 k', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x8e\xcd\xa0?', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 8ecda03f[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=812 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xd6\x81\x99\xd4', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xf3\xff\xfb\x84', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: f3fffb84[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xf3\xff\xfb\x84', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xd6\x81\x99\xd4', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: d68199d4[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xb0\xe3\xc8\x00', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: b0e3c800[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xb0\xe3\xc8\x00', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'0{\xc0\xd8', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'0{\xc0\xd8', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 307bc0d8[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xba\x07\xd0!', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: ba07d021[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xba\x07\xd0!', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x12\xd9V\xd1', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x12\xd9V\xd1', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 12d956d1[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'?P\xa2\xf8', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xdc\xc2\xea\x8b', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: dcc2ea8b[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xdc\xc2\xea\x8b', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'?P\xa2\xf8', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 3f50a2f8[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x0e\xb1\xdat', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 0eb1da74[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x0e\xb1\xdat', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x96B\xe8|', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x96B\xe8|', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 9642e87c[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xd56!\xfb', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: d53621fb[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xd56!\xfb', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'S/\xb9P', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'S/\xb9P', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 532fb950[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=788 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xa0\xf85-', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x84\x9bD4', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 849b4434[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x84\x9bD4', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xa0\xf85-', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: a0f8352d[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'k\x830\x01', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 6b833001[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'k\x830\x01', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x17\x15Sw', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x17\x15Sw', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 17155377[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'L\xda\xdeJ', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 4cdade4a[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'L\xda\xdeJ', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x89\x7f\x17!', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x89\x7f\x17!', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 897f1721[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xb8%\xf0\x19', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: b825f019[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xb8%\xf0\x19', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b' krK', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b' krK', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 206b724b[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=732 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server - event = eof_received()[0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the OPEN state: 1006 [no reason][0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost(None)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 677, in readexactly
+    raise IncompleteReadError(incomplete, n)
+asyncio.streams.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 23, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=808 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xf4\x91\x01\xe5', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'6\x0b\\ ', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 360b5c20[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'6\x0b\\ ', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xf4\x91\x01\xe5', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: f49101e5[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'8\x11\x9e\x94', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'8\x11\x9e\x94', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 38119e94[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x8fq\xff\xf7', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 8f71fff7[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x8fq\xff\xf7', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x9b\xed\xb3q', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 9bedb371[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x9b\xed\xb3q', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xe6#\x89\xab', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xe6#\x89\xab', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: e62389ab[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x87\xf9Q\xb7', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 87f951b7[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x87\xf9Q\xb7', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xd0\xeb(\xd6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xd0\xeb(\xd6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: d0eb28d6[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'/g\xef\xbf', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 2f67efbf[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'/g\xef\xbf', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x15_~\xe9', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x15_~\xe9', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 155f7ee9[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x96\xb7\rN', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x96\xb7\rN', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 96b70d4e[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'(\xaeY.', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 28ae592e[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'(\xaeY.', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost([WinError 10054] An existing connection was forcibly closed by the remote host)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the CLOSED state: 1006 [no reason][0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 674, in transfer_data
+    message = yield from self.read_message()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 742, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 815, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 884, in read_frame
+    extensions=self.extensions,
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\framing.py", line 99, in read
+    data = yield from reader(2)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 679, in readexactly
+    await self._wait_for_data('readexactly')
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\streams.py", line 473, in _wait_for_data
+    await self._waiter
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\asyncio\selector_events.py", line 801, in _read_ready__data_received
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 23, in handle_message
+    message = await ws.recv()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 434, in recv
+    yield from self.ensure_open()
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\protocol.py", line 646, in ensure_open
+    ) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006 (connection closed abnormally [internal]), no reason[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=644 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'pingy pingy', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\\\x12gx', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\\\x12gx', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 5c126778[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xab\xc9\xe6\xf6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: abc9e6f6[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xab\xc9\xe6\xf6', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'&\xdc\xca\x05', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 26dcca05[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'&\xdc\xca\x05', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'D\x17\xcf\x05', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'D\x17\xcf\x05', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 4417cf05[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'f\xcd\xc2x', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 66cdc278[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'f\xcd\xc2x', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xfa\xf5\xad\x92', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xfa\xf5\xad\x92', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: faf5ad92[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=728 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'pingy pingy', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 25, in handle_message
+    await data_manager.channel.process_message(message)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sync\channel.py", line 27, in process_message
+    r = bson.load(message)
+AttributeError: module 'bson' has no attribute 'load'[0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the OPEN state: 1011 [no reason][0m
+[34mDEBUG:websockets.protocol:server - state = CLOSING[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xf3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost(None)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=592 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'pingy pingy', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 25, in handle_message
+    await data_manager.channel.process_message(message)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sync\channel.py", line 27, in process_message
+    r = bson.load(message)
+AttributeError: module 'bson' has no attribute 'load'[0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the OPEN state: 1011 [no reason][0m
+[34mDEBUG:websockets.protocol:server - state = CLOSING[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xf3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost(None)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=732 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'pingy pingy', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 25, in handle_message
+    await data_manager.channel.process_message(message)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sync\channel.py", line 27, in process_message
+    r = bson.loads(message)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\bson\__init__.py", line 47, in loads
+    return decode_document(data, 0)[1]
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\bson\codec.py", line 275, in decode_document
+    length = struct.unpack("<i", data[base:base + 4])[0]
+TypeError: a bytes-like object is required, not 'str'[0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the OPEN state: 1011 [no reason][0m
+[34mDEBUG:websockets.protocol:server - state = CLOSING[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xf3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost(None)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=760 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'pingy pingy', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 25, in handle_message
+    await data_manager.channel.process_message(message)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sync\channel.py", line 27, in process_message
+    r = bson.loads(message)
+NameError: name 'bson' is not defined[0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the OPEN state: 1011 [no reason][0m
+[34mDEBUG:websockets.protocol:server - state = CLOSING[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xf3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost(None)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=624 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'pingy pingy', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 25, in handle_message
+    await data_manager.channel.process_message(message)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sync\channel.py", line 27, in process_message
+    r = bson.loads(message)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)[0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the OPEN state: 1011 [no reason][0m
+[34mDEBUG:websockets.protocol:server - state = CLOSING[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xf3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost(None)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=836 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'9\xfc^V', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 39fc5e56[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'9\xfc^V', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xcfk\x97\x9e', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xcfk\x97\x9e', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: cf6b979e[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=772 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 0, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 0, 'params': {'layer_name': 'layer1'}}}[0m
+[31mERROR:websockets.server:Error in connection handler
+Traceback (most recent call last):
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\websockets\server.py", line 169, in handler
+    yield from self.ws_handler(self, path)
+  File "server.py", line 25, in handle_message
+    await data_manager.channel.process_message(message)
+  File "C:\Users\spadavala\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sync\channel.py", line 32, in process_message
+    self.data_manager.recv_image_definition(**data)
+TypeError: recv_image_definition() got an unexpected keyword argument 'type'[0m
+[34mDEBUG:websockets.protocol:server ! failing WebSocket connection in the OPEN state: 1011 [no reason][0m
+[34mDEBUG:websockets.protocol:server - state = CLOSING[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xf3', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - event = connection_lost(None)[0m
+[34mDEBUG:websockets.protocol:server - state = CLOSED[0m
+[34mDEBUG:websockets.protocol:server x code = 1006, reason = [no reason][0m
+[34mDEBUG:websockets.protocol:server x half-closing TCP connection[0m
+[34mDEBUG:asyncio:Using selector: SelectSelector[0m
+[34mDEBUG:root:Starting server...[0m
+[34mDEBUG:websockets.protocol:server - state = CONNECTING[0m
+[34mDEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=724 read=idle write=<idle, bufsize=0>>)[0m
+[34mDEBUG:websockets.protocol:server - state = OPEN[0m
+[32mINFO:root:Running handler...[0m
+[32mINFO:root:Server init complete[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 0, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 0, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 1, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 1, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 2, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 2, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 3, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 3, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 4, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 4, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 5, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 5, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 6, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 6, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 7, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 7, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 8, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 8, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"request": "RegisterImage", "data": {"type": "layer", "uuid": 9, "params": {"layer_name": "layer1"}}}', rsv1=False, rsv2=False, rsv3=False)[0m
+[32mINFO:root:Got message![0m
+[32mINFO:sync.channel:Got message {'request': 'RegisterImage', 'data': {'type': 'layer', 'uuid': 9, 'params': {'layer_name': 'layer1'}}}[0m
+[32mINFO:root:Waiting for message...[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'a\xadH\x93', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 61ad4893[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'a\xadH\x93', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xd3\xfcG\x7f', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xd3\xfcG\x7f', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: d3fc477f[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'[C\xac1', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'[C\xac1', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 5b43ac31[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xa8-h\xc5', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: a82d68c5[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xa8-h\xc5', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xce\xb7\xf8\x18', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: ceb7f818[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xce\xb7\xf8\x18', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x9dP\x10\x86', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x9dP\x10\x86', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 9d501086[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xc4\xf6\x85j', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: c4f6856a[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xc4\xf6\x85j', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'EF1\x1f', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'EF1\x1f', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 4546311f[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'rV\xde`', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 7256de60[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'rV\xde`', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xef\x8b\x1b\x8d', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xef\x8b\x1b\x8d', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: ef8b1b8d[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'K\xdf\xcc\xdd', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'K\xdf\xcc\xdd', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 4bdfccdd[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x84H-\xa5', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 84482da5[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x84H-\xa5', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'u]<\xe8', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 755d3ce8[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'u]<\xe8', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xc7\xcfC\xb2', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xc7\xcfC\xb2', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: c7cf43b2[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\x80\x904\xf4', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: 809034f4[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\x80\x904\xf4', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\x93\x02~*', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\x93\x02~*', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: 93027e2a[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=9, data=b'\xe5\xf0\x97\x8b', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received ping, sending pong: e5f0978b[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=10, data=b'\xe5\xf0\x97\x8b', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server > Frame(fin=True, opcode=9, data=b'\xaf8K\xe5', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server < Frame(fin=True, opcode=10, data=b'\xaf8K\xe5', rsv1=False, rsv2=False, rsv3=False)[0m
+[34mDEBUG:websockets.protocol:server - received solicited pong: af384be5[0m
