@@ -10,3 +10,10 @@ class ServerComputedImage(ComputedImage):
     def handle_update(self, tile_key, data):
         # Write to krita
         pass
+
+    def recv_computed_image(self, data):
+        """
+        Receive an updated image from the task runner.
+        This function should synchronize with the other side, but does not need to handle any further compute dependencies
+        """
+        pass
