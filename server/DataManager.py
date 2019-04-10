@@ -2,6 +2,8 @@ from sync.data_manager import DataManager
 import logging
 import asyncio
 from .taskmanager import TaskManager
+from .ServerComputedImage import ServerComputedImage
+from .ServerLayerImage import ServerLayerImage
 
 logger = logging.getLogger(__name__)
 
@@ -9,15 +11,8 @@ logger = logging.getLogger(__name__)
 class ServerDataManager(DataManager):
     def __init__(self, ws):
         super().__init__(ws)
-        self.taskmanager = TaskManager
-
-    async def watch_layers(self):
-        while True:
-            logger.debug("Scanning layer images...")
-            for uuid, image in self.images.items():
-                image.update()
-
-            await asyncio.sleep(2)
+        self.taskmanager = TaskManager()
+        logger.info("Data Manager initialized successfully")
 
     async def recv_recompute(self, uuid):
         logger.debug("Scheduling recompute for {}".format(uuid))
